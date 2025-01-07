@@ -22,5 +22,7 @@ button:hover {
   border-color: #f1ff5c;
   color: white;
   box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
-  transform: translateY(-0.25em);
-}
+  transform: translate(6px, 20px) rotate(20deg);
+  transition: all 0.2s;
+  cursor: pointer;
+} 
